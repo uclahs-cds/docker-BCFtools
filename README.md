@@ -5,7 +5,9 @@ The image is located in the BLCDS repo: https://hub.docker.com/repository/docker
 
 # Documentation
 BCFtools main website [here](https://samtools.github.io/bcftools/howtos/index.html)
+
 BCFtools documentation [here](https://samtools.github.io/bcftools/bcftools.html)
+
 GitHub repository [here](http://github.com/samtools/bcftools).
 
 # Version
