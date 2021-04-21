@@ -6,5 +6,5 @@ Contributors: 'Timothy Sanders'
 Languages: ['bash']
 Tools: ['BCFtools']
 Version: ['1.12']
-Dependencies: 'docker','conda','bl-base']
+Dependencies: ['docker', 'conda', 'bl-base']
 References: 'https://samtools.github.io/bcftools/howtos/publications.html'
