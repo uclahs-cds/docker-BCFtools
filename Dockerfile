@@ -11,4 +11,4 @@ RUN conda create -qy -p /usr/local \
 FROM ubuntu:20.04
 COPY --from=builder /usr/local /usr/local
 
-LABEL maintainer="Tim Sanders <tsanders@ucla.edu>"
+LABEL maintainer="Tim Sanders <tsanders@mednet.ucla.edu>"
