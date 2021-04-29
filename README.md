@@ -11,7 +11,9 @@ BCFtools documentation [here](https://samtools.github.io/bcftools/bcftools.html)
 GitHub repository [here](http://github.com/samtools/bcftools).
 
 # Version
-Current version: 1.12
+| Tool | Version |
+|------|---------|
+|BCFtools|1.12|
 
 
 ---
