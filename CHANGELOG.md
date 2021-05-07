@@ -7,6 +7,6 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
-## [1.0.0] - 2021-04-29
+## [1.12] - 2021-04-29
 ### Added
 - Migrated BCFtools dockerfile to its own repository
