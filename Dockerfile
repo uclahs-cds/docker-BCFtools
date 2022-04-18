@@ -1,7 +1,7 @@
 FROM blcdsdockerregistry/bl-base:1.0.0 AS builder
 
 # Use conda to install tools and dependencies into /usr/local
-ARG BCFTOOLS_VERSION=1.12
+ARG BCFTOOLS_VERSION=1.15
 RUN conda create -qy -p /usr/local \
     -c bioconda \
     -c conda-forge \
