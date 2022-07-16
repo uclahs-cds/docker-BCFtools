@@ -1,10 +1,10 @@
 ---
 Category: 'docker'
-Description: 'Dockerfile for BCFtools'
-Maintainers: ['tsanders@mednet.ucla.edu']
-Contributors: 'Timothy Sanders'
-Languages: ['bash']
+Description: 'Docker repository for BCFtools'
+Maintainers: ['mmootor@mednet.ucla.edu']
+Contributors: ['Timothy Sanders', 'Mohammed Faizal Eeman Mootor']
+Languages: ['Dockerfile']
 Tools: ['BCFtools']
-Version: ['1.12']
-Dependencies: ['docker', 'conda', 'bl-base']
+Version: ['1.15.1']
+Purpose of tool: 'BCFtools is a program for variant calling and manipulating files in the Variant Call Format (VCF) and its binary counterpart BCF.'
 References: 'https://samtools.github.io/bcftools/howtos/publications.html'
