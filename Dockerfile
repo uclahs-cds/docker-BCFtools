@@ -21,3 +21,4 @@ RUN groupadd -g 500001 bldocker && \
 USER bldocker
 
 LABEL maintainer="Mohammed Faizal Eeman Mootor <mmootor@mednet.ucla.edu>"
+      org.opencontainers.image.source=https://github.com/uclahs-cds/docker-BCFtools
