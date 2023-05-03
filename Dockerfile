@@ -4,7 +4,7 @@ FROM condaforge/mambaforge:${MINIFORGE_VERSION} AS builder
 
 # Use mamba to install tools and dependencies into /usr/local
 ARG BCFTOOLS_VERSION=1.15.1
-RUN conda create -qy -p /usr/local \
+RUN mamba create -qy -p /usr/local \
     -c bioconda \
     -c conda-forge \
     bcftools==${BCFTOOLS_VERSION}
