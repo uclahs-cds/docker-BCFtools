@@ -13,7 +13,7 @@ GitHub repository [here](http://github.com/samtools/bcftools).
 # Version
 | Tool | Version |
 |------|---------|
-|BCFtools|1.15.1|
+| BCFtools | 1.17 |
 
 
 ---
@@ -32,7 +32,7 @@ docker-BCFtools is licensed under the GNU General Public License version 2. See 
 
 docker-BCFtools can be used to create a docker instance to use BCFtools.
 
-Copyright (C) 2021-2022 University of California Los Angeles ("Boutros Lab") All rights reserved.
+Copyright (C) 2021-2023 University of California Los Angeles ("Boutros Lab") All rights reserved.
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
