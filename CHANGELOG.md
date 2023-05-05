@@ -8,6 +8,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ---
 
 ## [Unreleased]
+
+---
+
+## [1.17] - 2023-05-05
 ### Added
 - Add GitHub autobuild action
 - Add LICENSE.md file to repo
@@ -15,8 +19,6 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Changed
 - Switch from `bl-base` to `condaforge`/`mambaforge`
-- Upgrade BCFtools 1.15 to 1.15.1
-- Upgrade bl-base 1.0.0 to 1.1.0
 - Add `bldocker` as user in the Dockerfile
 
 ---
