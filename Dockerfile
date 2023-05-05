@@ -3,7 +3,7 @@ ARG MINIFORGE_VERSION=22.9.0-2
 FROM condaforge/mambaforge:${MINIFORGE_VERSION} AS builder
 
 # Use mamba to install tools and dependencies into /usr/local
-ARG BCFTOOLS_VERSION=1.15.1
+ARG BCFTOOLS_VERSION=1.17
 RUN mamba create -qy -p /usr/local \
     -c bioconda \
     -c conda-forge \
