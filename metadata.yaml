@@ -2,7 +2,7 @@
 Category: 'docker'
 Description: 'Docker repository for BCFtools'
 Maintainers: ['mmootor@mednet.ucla.edu']
-Contributors: ['Timothy Sanders', 'Mohammed Faizal Eeman Mootor', 'John Sahrmann']
+Contributors: ['Timothy Sanders', 'Mohammed Faizal Eeman Mootor', 'John Sahrmann', 'Sorel Fitz-Gibbon']
 Languages: ['Dockerfile']
 Tools: ['BCFtools']
 Version: ['1.18']
