@@ -9,7 +9,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
-## [1.22] - 2024-06-06
+## [1.22] - 2024-08-29
 - Update BCFtools 1.21 to 1.22
 
 ## [1.21] - 2024-10-09
